@@ -1,16 +1,31 @@
-country,iso_alpha,temperature,humidity,rainfall
-India,IND,32,70,210
-United States,USA,22,55,120
-Canada,CAN,15,60,140
-Brazil,BRA,29,75,300
-Australia,AUS,25,65,110
-United Kingdom,GBR,18,80,90
-Germany,DEU,17,68,85
-France,FRA,19,72,95
-Russia,RUS,10,65,50
-China,CHN,23,60,180
-Japan,JPN,21,67,130
-South Africa,ZAF,26,58,160
-Mexico,MEX,28,70,200
-Saudi Arabia,SAU,35,40,5
-Argentina,ARG,20,75,190
+state,iso_code,temperature,humidity,rainfall
+Andhra Pradesh,IN-AP,32,68,112
+Arunachal Pradesh,IN-AR,24,82,210
+Assam,IN-AS,27,78,320
+Bihar,IN-BR,31,72,145
+Chhattisgarh,IN-CT,30,70,180
+Goa,IN-GA,29,76,320
+Gujarat,IN-GJ,33,60,90
+Haryana,IN-HR,32,58,65
+Himachal Pradesh,IN-HP,18,55,140
+Jharkhand,IN-JH,30,74,160
+Karnataka,IN-KA,28,75,220
+Kerala,IN-KL,30,80,340
+Madhya Pradesh,IN-MP,31,65,120
+Maharashtra,IN-MH,30,70,155
+Manipur,IN-MN,25,82,210
+Meghalaya,IN-ML,23,88,350
+Mizoram,IN-MZ,24,85,290
+Nagaland,IN-NL,25,80,220
+Odisha,IN-OR,32,78,280
+Punjab,IN-PB,31,55,60
+Rajasthan,IN-RJ,35,48,40
+Sikkim,IN-SK,20,90,300
+Tamil Nadu,IN-TN,33,70,110
+Telangana,IN-TG,32,65,100
+Tripura,IN-TR,27,78,260
+Uttar Pradesh,IN-UP,31,62,95
+Uttarakhand,IN-UT,22,58,120
+West Bengal,IN-WB,29,80,270
+Jammu and Kashmir,IN-JK,17,50,95
+Ladakh,IN-LA,10,35,50
